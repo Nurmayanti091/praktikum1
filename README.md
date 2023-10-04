@@ -9,12 +9,12 @@
     <hr>
     <h3>Data Pribadi</h3>
     <ul>
-    <h5>Nama:Nurmayanti</h5>
-    <h5>Nim:0110223269</h5>
-    <h5>Prodi:Teknik Informatika</h5>
-    <h5>Alamat:Gg.haji Muin no.88,Depok</h5>
-    <h5>Agama:Islam</h5>
-    <h5> Telp:0812-6919-2581</h5>
+    <li>Nama:Nurmayanti</li>
+    <li>Nim:0110223269</li>
+    <li>Prodi:Teknik Informatika</li>
+    <li>Alamat:Gg.haji Muin no.88,Depok</li>
+    <li>Agama:Islam</li>
+    <li> Telp:0812-6919-2581</li>
     </ul>
     <hr>
     <h3>Riwayat Pendidikan</h3>
